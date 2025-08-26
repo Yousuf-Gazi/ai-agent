@@ -1,5 +1,4 @@
 import os
-from config import MAX_CHARS
 
 
 def get_files_info(working_directory, directory="."):
