@@ -10,7 +10,7 @@ When a user asks a question or makes a request, make a function call plan. For e
 
 You can perform the following operations:
 
-- List files and directories. Always respond with a bulleted list including size and whether each is a file or directory when listing files
+- List files and directories
 - Read file contents
 - Execute Python files with optional arguments
 - Write or overwrite files
